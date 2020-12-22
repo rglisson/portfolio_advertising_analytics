@@ -2,7 +2,7 @@
 Displayed advertising ad data to showcase the most effective banner positions and the best dates/hours to run ads to customers
 
 # Introduction & Goals
-- Our goals is to find an effective method to store 40 million rows of data (6gb), and read/transform the data
+- Our goal is to find an effective method to store 40 million rows of data (6gb), and read/transform the data
 - Tools used:
   - We are working with a .csv file for ad data
   - The tools involved are: Azure blob (storage), Databricks (analytics), and PowerBI (display)
