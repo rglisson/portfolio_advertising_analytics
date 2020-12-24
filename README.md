@@ -37,7 +37,7 @@ Displayed advertising ad data to showcase the most effective banner positions an
 
 ![](images/banner.PNG)
 
-- For hour vs CTR comparison (hour_ctr.csv), hour 01 and 015 were the highest at 0.185% and 0.181% respectively.  However, the lowest CTR was %0.16, a %.02 difference.
+- For hour vs CTR comparison (hour_ctr.csv), hour 01 and 015 were the highest at 0.185% and 0.181% respectively.  However, the lowest CTR was 0.16%, a 0.02% difference.
 
 
 ![](images/ctr_hour.png)
